@@ -7,6 +7,7 @@ No momento, sou estudante de Análise e Desenvolvimento de Sistemas.
 
 Tenho minha própria empresa, uma franquia, e estou estagiando no SEATI.
 Busco colaborar com projetos de desenvolvimento.
+
 Linguagens: Python, Java, Javascript, NodeJS.
 
 Sobre mim: Curto tecnologias, sempre atento às novidades, games, filmes e séries.
