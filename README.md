@@ -15,4 +15,3 @@ Entre em contato comigo:
 - Email: mailto:lvcramos@hotmail.com ou mailto:lvcramos18@gmail.com
 - Linkedin: https://www.linkedin.com/in/lucas-ver%C3%A7osa-79187b41/
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5f3a99a-2c2f-46d2-a4ad-dbcf17fab33d" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
