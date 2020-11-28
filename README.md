@@ -12,6 +12,6 @@ Linguagens: Python, Java, Javascript, NodeJS.
 
 Sobre mim: Curto tecnologias, sempre atento às novidades, games, filmes e séries.
 Entre em contato comigo:
-- Email: mailto:lvcramos@hotmail.com ou mailto:lvcramos18@gmail.com
+- Email: lvcramos@hotmail.com ou lvcramos18@gmail.com
 - Linkedin: https://www.linkedin.com/in/lucas-ver%C3%A7osa-79187b41/
 
