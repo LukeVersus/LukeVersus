@@ -2,13 +2,12 @@
 
 ### Olá pessoal 👋
 
-Sou formado em Administração e me aventurando nesta área maravilhosa de desenvolvimento. Adoro resolver problemas usando programação.
-No momento, sou estudante de Análise e Desenvolvimento de Sistemas.
+Sou formado em Análise e Desenvolvimento de Sistemas, também cursei Administração.
 
-Tenho minha própria empresa, uma franquia, e estou estagiando no SEATI.
+Sou Analista Desenvolvedor na Minsait.
 Busco colaborar com projetos de desenvolvimento.
 
-Linguagens: Python, Java, Javascript, NodeJS.
+Linguagens: Java, Javascript, Typescript, Python.
 
 Sobre mim: Curto tecnologias, sempre atento às novidades, games, filmes e séries.
 Entre em contato comigo:
