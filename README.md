@@ -4,7 +4,7 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas, também cursei Administração.
 
-Sou Analista Desenvolvedor na Minsait.
+Sou Programador Pleno na Pulse.
 Busco colaborar com projetos de desenvolvimento.
 
 Linguagens: Java, Javascript, Typescript, Python.
